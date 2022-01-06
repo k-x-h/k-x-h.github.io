@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 2020-Currently: Data Analyst
+* 2020-Current Day: Data Analyst
   
 Skills
 ======
