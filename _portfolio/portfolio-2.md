@@ -5,7 +5,8 @@ excerpt: "Testing 2 Testing asdf
 
 3
 
+<img src="images/grade_predict.gif" alt="hi" class="inline"/>
 
-1<br/><img src='/grade_predict.gif'>"
+<br/><img src='images/grade_predict.gif'>"
 collection: portfolio
 ---
