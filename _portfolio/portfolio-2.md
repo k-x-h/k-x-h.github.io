@@ -1,6 +1,8 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/grade_predict.gif'>"
+title: "End to End ML - Final Grade Prediction"
+excerpt: "An exploratory data analysis + end-to-end machine learning project that aims to find a model to accurate predict a student's final grade. Written in Python with a heavy use of Pandas, NumPy, Seaborn, and SciKit-Learn.
+
+<br/><img src='/images/grade_predict.gif'>"
 collection: portfolio
 ---
 
