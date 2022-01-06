@@ -7,9 +7,9 @@ excerpt: "Testing 2 Testing asdf
 
 
 
-<br/><img src="images/grade_predict.gif" alt="hi" class="inline">"
+<br/><img src='/_portfolio/images/grade_predict.gif'>"
 collection: portfolio
 ---
 
 
-img src='images/grade_predict.gif'
+
