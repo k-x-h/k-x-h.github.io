@@ -6,6 +6,6 @@ excerpt: "Testing 2 Testing asdf
 3
 
 
-1<br/><img src='/images/grade_predict.gif'>"
+1<br/><img src='/grade_predict.gif'>"
 collection: portfolio
 ---
