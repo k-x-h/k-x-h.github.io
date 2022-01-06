@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 
 # WIP
-## I'll get to this when I get to it
+## I'll get to this when I get to it 
+### (I've done none of the things below)
 
 
 
