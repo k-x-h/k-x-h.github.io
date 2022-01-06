@@ -1,10 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
----
----
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Tweet Scraping Sentiment-Analysis"
+excerpt: "Conducts a positive/negative and subjective/objective sentiment analysis on tweets found containing a term (Specified by user). Written in Python
+Test
+Test
+<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
