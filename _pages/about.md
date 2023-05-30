@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Data Analyst. Computer Science graduate student at Stevens Institute of Technology.
+Data Analyst. Computer Science graduate student.
