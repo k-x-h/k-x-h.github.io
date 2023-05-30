@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Data Analyst. Computer Science graduate student at Stevens Institute of Technology. Interests in applied Machine Learning/AI.
+Data Analyst. Computer Science graduate student at Stevens Institute of Technology.
