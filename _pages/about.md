@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Data Analyst. Computer Science graduate student
+Data Analyst. Computer Science graduate student..
